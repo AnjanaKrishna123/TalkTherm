@@ -1,8 +1,8 @@
-# [Project Name] 🎯
+# TALK THERM 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: A&A
 
 
 
