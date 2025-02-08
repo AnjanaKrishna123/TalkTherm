@@ -5,97 +5,57 @@
 ### Team Name: A&A
 
 
-
-
 ### Team Members
-- Member 1: [Name] - [Cggugu
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: ANJANA KRISHNA VB - SSET
+- Member 2: ANN MERIN REJO- SSET
+- Member 3: GOPIKA R - SSET
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+To design a thermometer with both digital and voice output
+To ensure accurate temperature sensing
+To create an accessible and user-friendly interface
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+People with visual impairments can’t easily read a conventional thermometer.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+The solution is to use a speaking thermometer. Instead of relying on a visual display, a speaking thermometer announces the temperature aloud, making it accessible for people with visual impairments. This ensures that everyone can accurately and easily receive temperature readings without needing to rely on sight.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Microcontroller:  Arduino Uno 
+  Temperature Sensor: GY-906 
+  Display: 16*2 LCD green JHD  display 
+  Audio output: ISD 1820 module 
+  Power supply:  5V battery 
+  Other Components: Jumper wires, PCB, casing
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
 
 # Build Photos
 ![Team](Add photo of your team here)
 
+https://drive.google.com/file/d/1p78lmJmUMrAFV-MdVqQW4P7WRqD3GHu3/view?usp=drivesdk
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/file/d/1p8Y4F-ZnXcB0JJ52vjssTVEMEl5zqFtr/view?usp=drivesdk
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1p8n6nSgSpKeLp6PkzL7UtqiYDnPb70GQ/view?usp=drivesdk
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ANJANA KRISHNA V B : Project idea & Building
+- ANN MERIN REJO : Coding & Building
+- GOPIKA R : Documentation
 
 ---
 Made with ❤️ at TinkerHub
