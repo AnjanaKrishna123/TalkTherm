@@ -1,12 +1,12 @@
-# [Project Name] 🎯
+TALK THERM 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+Thermometer with both digital and voice output
+ Team Name: A&A
 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [Name] - [Cggugu
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
