@@ -1,8 +1,10 @@
-TALK THERM 🎯
+# [Project Name] 🎯
 
 
-Thermometer with both digital and voice output
- Team Name: A&A
+## Basic Details
+### Team Name: [Name]
+
+
 
 
 ### Team Members
