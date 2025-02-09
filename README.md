@@ -25,7 +25,7 @@ The solution is to use a speaking thermometer. Instead of relying on a visual di
 ### Technologies/Components Used
 For Hardware:
 Microcontroller:  Arduino Uno 
-  Temperature Sensor: GY-906 
+  Temperature Sensor: MXL90614ESF
   Display: 16*2 LCD green JHD  display 
   Audio output: ISD 1820 module 
   Power supply:  5V battery 
