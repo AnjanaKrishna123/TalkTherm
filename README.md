@@ -10,9 +10,6 @@
 - Member 2: ANN MERIN REJO- SSET
 - Member 3: GOPIKA R - SSET
 
-### Hosted Project Link
-[mention your project hosted project link here]
-
 ### Project Description
 To design a thermometer with both digital and voice output
 To ensure accurate temperature sensing
@@ -38,11 +35,11 @@ Microcontroller:  Arduino Uno
 For Hardware:
 
 # Schematic & Circuit
-
+https://drive.google.com/file/d/1pNWTp3vqTiX8WVu-oLQgPEqiLZvrybpf/view?usp=drivesdk
 
 
 # Build Photos
-![Team](Add photo of your team here)
+https://drive.google.com/file/d/1pQ9d8krefMO_eI3MJ4egOEX461qQgWyj/view?usp=drivesdk
 
 https://drive.google.com/file/d/1p78lmJmUMrAFV-MdVqQW4P7WRqD3GHu3/view?usp=drivesdk
 
@@ -50,7 +47,14 @@ https://drive.google.com/file/d/1p8Y4F-ZnXcB0JJ52vjssTVEMEl5zqFtr/view?usp=drive
 
 ### Project Demo
 # Video
+https://drive.google.com/file/d/1pPmTqb6iYay4voh05aIF5KutY3p-2mos/view?usp=drivesdk
+
 https://drive.google.com/file/d/1p8n6nSgSpKeLp6PkzL7UtqiYDnPb70GQ/view?usp=drivesdk
+
+# Limitation
+ The limitation we are facing here is generation of speech dynamically since ISD 1820 is not designed for dynamic speech output.
+ We can overcome this by using TTS module like DFPlayer Mini MP3 module as it can store multiple audio files on SD card. 
+ So we can trigger the appropriate file based on temperature reading.
 
 ## Team Contributions
 - ANJANA KRISHNA V B : Project idea & Building
